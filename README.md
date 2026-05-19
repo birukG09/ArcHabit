@@ -1,4 +1,4 @@
-Orbit90                                                                                                       
+![ArcHabit Screenshot]()Orbit90                                                                                                       
 A full-stack habit tracker built around a circular SVG visualization. Each habit gets its own concentric ring divided into 90 clickable arc segments — one per day. Click a segment to mark that day done.
 
 ---

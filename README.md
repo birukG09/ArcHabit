@@ -1,4 +1,5 @@
-![ArcHabit Screenshot](https://github.com/birukG09/ArcHabit/blob/ec03d74dc1daf49d35712c46bdfcaf229d93def6/Screenshot%202026-05-19%20222834.png)
+![ArcHabit screenshot](./images/Screenshot%202026-05-19%20222834.png)
+![ArcHabit screenshot](https://raw.githubusercontent.com/birukG09/ArcHabit/ec03d74dc1daf49d35712c46bdfcaf229d93def6/Screenshot%202026-05-19%20222834.png)
 # ArcHabit                                                                                                       
 A full-stack habit tracker built around a circular SVG visualization. Each habit gets its own concentric ring divided into 90 clickable arc segments — one per day. Click a segment to mark that day done.
 
